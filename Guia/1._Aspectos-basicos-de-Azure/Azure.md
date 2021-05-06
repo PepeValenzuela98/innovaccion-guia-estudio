@@ -18,3 +18,19 @@ Azure Portal es una consola unificada basada en web que proporciona una alternat
 
 ## Azure Marketplace
 Azure Marketplace facilita la conexión entre los usuarios y los partners de Microsoft, proveedores de software independientes y nuevas empresas que ofrecen sus soluciones y servicios, optimizados para ejecutarse en Azure. Los clientes de Azure Marketplace pueden buscar, probar, comprar y aprovisionar aplicaciones y servicios de cientos de los principales proveedores de servicios. 
+
+## Servicios que ofrece Azure
+![Servicios dentro de Azure](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png#lightbox)
+
+Dentro de los servicios que ofrece Microsoft Azure se encuentran en categorías:
+
+* Proceso:
+* Redes
+* Almacenamiento
+* Móvil
+* Bases de datos
+* Web
+* Internet de las cosas (IoT)
+* Macrodatos
+* INTELIGENCIA ARTIFICIAL
+* DevOps
