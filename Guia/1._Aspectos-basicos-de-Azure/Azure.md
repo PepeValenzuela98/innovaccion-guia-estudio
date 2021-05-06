@@ -22,9 +22,10 @@ Azure Marketplace facilita la conexión entre los usuarios y los partners de Mic
 ## Servicios que ofrece Azure
 ![Servicios dentro de Azure](https://docs.microsoft.com/es-mx/learn/azure-fundamentals/intro-to-azure-fundamentals/media/azure-services.png#lightbox)
 
-Dentro de los servicios que ofrece Microsoft Azure se encuentran en categorías:
+Dentro de los servicios que ofrece Microsoft Azure se encuentran en categorías
+por mencionar las más utilizadas:
 
-* Proceso:
+* Proceso
 * Redes
 * Almacenamiento
 * Móvil
